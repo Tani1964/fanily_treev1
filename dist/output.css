@@ -669,6 +669,10 @@ video {
   margin-left: 3rem;
 }
 
+.mt-6 {
+  margin-top: 1.5rem;
+}
+
 .inline-block {
   display: inline-block;
 }
@@ -712,6 +716,10 @@ video {
 .h-fit {
   height: -moz-fit-content;
   height: fit-content;
+}
+
+.h-2 {
+  height: 0.5rem;
 }
 
 .w-28 {
